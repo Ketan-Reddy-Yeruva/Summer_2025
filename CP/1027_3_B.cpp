@@ -1,8 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-//// Some issue with the logic, should modify it
-////
 int main() {
     int t;
     cin >> t;
@@ -33,14 +31,18 @@ int main() {
         if (a+b == k)
             cout << "YES" << endl;
         if (a+b > k) {
-            if ( min(a,b) >= (n/2)-k )
+            if ( (min(count_one, count_zero) >= (n/2)-k) && ( max(count_one, count_zero)<=((n/2)+k) ) && ( (count_one+k-(n/2))%2 == 0 ) )
                 cout << "YES" << endl;
             else    
                 cout << "NO" << endl;
         }
 
 
-        ///// a-x = b-y = (n/2)-k;
+        ///// a-x = b-y
         ///// x + y = k;
+        ///// x pairs of zeroes are used, y pairs of ones are used.
+        ///// cnt_zero - (2x) = cnt_one - (2y) = (n/2) - (k);
+        ///// 
+
     }
 }
