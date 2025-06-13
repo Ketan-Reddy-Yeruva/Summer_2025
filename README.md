@@ -20,13 +20,13 @@ After setting it up, looked up on PSQL Basics.<br>
 Did a small table and understood how it works(very fundamentals)<br>
 
 ## <font color="red">13/06/2025</font>
-After a long time
-Doing Dynamic Progamming (udemy course)
-Crossed 1000 rating in codeforces
-Did an application for maths guild.
-Solving some basic CP Questions everyday.
-Started linux commands.
-Found some good resources for linux.
-https://exploiitm.github.io/
-[overthewire](https://overthewire.org/wargames)
-https://cmdchallenge.com/
+After a long time <br>
+Doing Dynamic Progamming (udemy course) <br>
+Crossed 1000 rating in codeforces <br>
+Did an application for maths guild. <br>
+Solving some basic CP Questions everyday. <br>
+Started linux commands. <br>
+Found some good resources for linux. <br>
+https://exploiitm.github.io/ <br>
+[overthewire](https://overthewire.org/wargames) <br>
+https://cmdchallenge.com/ <br>
