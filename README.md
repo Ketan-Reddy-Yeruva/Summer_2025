@@ -18,3 +18,15 @@ Installed PSQL today.<br>
 Wasn't easy at all, took so long to do.<br>
 After setting it up, looked up on PSQL Basics.<br>
 Did a small table and understood how it works(very fundamentals)<br>
+
+## <font color="red">13/06/2025</font>
+After a long time
+Doing Dynamic Progamming (udemy course)
+Crossed 1000 rating in codeforces
+Did an application for maths guild.
+Solving some basic CP Questions everyday.
+Started linux commands.
+Found some good resources for linux.
+https://exploiitm.github.io/
+[overthewire](https://overthewire.org/wargames)
+https://cmdchallenge.com/
