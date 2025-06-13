@@ -1,0 +1,25 @@
+Date : 13/06/2025
+Reason : Using vim for the first time
+
+Used the following commands.
+touch filename.txt
+	This created an empty text file, named filename.txt in the cureent directory.
+
+vim filename.txt
+	This opened the file in vim in the terminal itself.
+	I have typed this document in vim.
+
+cat filename.txt
+	This command outputs all the contents of the file in the order as they are in the file.
+
+Press the "Esc" key on the keyboard to enter command mode in vim.
+Now you can use
+	:w
+		This command will save your changes.
+	:q
+		you will exit vim.
+	i
+		This will take you back to editting mode (you can make changes)
+		(you will see ""-- INSERT --"" at the bottom left of the page while in editting mode.
+
+
