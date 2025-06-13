@@ -22,4 +22,9 @@ Now you can use
 		This will take you back to editting mode (you can make changes)
 		(you will see ""-- INSERT --"" at the bottom left of the page while in editting mode.
 
+I have now used the command
+	nano filename.txt
+This command opens the file using nano.
+It is like vim, but it has a helpbox kindof thing at the bottom of the screen with a few visible commands.
+
 
