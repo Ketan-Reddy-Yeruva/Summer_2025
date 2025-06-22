@@ -30,3 +30,11 @@ Found some good resources for linux. <br>
 https://exploiitm.github.io/ <br>
 [overthewire](https://overthewire.org/wargames) <br>
 https://cmdchallenge.com/ <br>
+
+## 22/06/2025 <br>
+Did leetcode 7 questions today(contests 451,453,454,455)
+Installed psql in wsl. <br>
+Created a user.<br>
+Tried creating a database, but didn't load anything in the terminal. <br>
+Other commands like creating table, etc worked fine.<br>
+
