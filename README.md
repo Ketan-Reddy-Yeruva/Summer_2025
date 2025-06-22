@@ -37,4 +37,7 @@ Installed psql in wsl. <br>
 Created a user.<br>
 Tried creating a database, but didn't load anything in the terminal. <br>
 Other commands like creating table, etc worked fine.<br>
-
+Tried to fix the DATABASE issue, it seems some issue with the storage.<br>
+Then tried to fix that, turns out wsl is in version 1.<br>
+Tried updating but didn't work. Suggestions are to reinstall everything from scratch.<br>
+(Using nano to edit these files, not vscode).
