@@ -52,3 +52,6 @@ Will soon add a PSQL commands file. <br>
 Doing multiple tables in SQL. <br>
 Will give a codeforces contest tonight. (div2) <br>
 Looked up on flask and django, will install them after contest.<br>, 
+Gave the contest Educational Codeforces Round 180(Div2), could solve 1,2 correctly<br>
+Solved C but not in optimal time limit criteria.<br>
+
