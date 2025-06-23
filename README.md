@@ -41,3 +41,14 @@ Tried to fix the DATABASE issue, it seems some issue with the storage.<br>
 Then tried to fix that, turns out wsl is in version 1.<br>
 Tried updating but didn't work. Suggestions are to reinstall everything from scratch.<br>
 (Using nano to edit these files, not vscode).
+
+## 23/06/2025 <br>
+Fixed the wsl issue.<br>
+Had to login via admin and then change it in my user itself.<br>
+"df -h" gives storage values which aren't constant.(I don't know why) <br>
+Checked psql in wsl, it's working fine.<br>
+Went through some tutorials on SQL in codecademy.com, familiar with basic tables, queries, functions like AVG, ROUND, GROUP, etc. <br
+Will soon add a PSQL commands file. <br>
+Doing multiple tables in SQL. <br>
+Will give a codeforces contest tonight. (div2) <br>
+Looked up on flask and django, will install them after contest.<br>, 
