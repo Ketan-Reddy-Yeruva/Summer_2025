@@ -55,3 +55,9 @@ Looked up on flask and django, will install them after contest.<br>,
 Gave the contest Educational Codeforces Round 180(Div2), could solve 1,2 correctly<br>
 Solved C but not in optimal time limit criteria.<br>
 
+## 24/06/2025 <br>
+Installed Flask. <br>
+Got to know basics of how websites, browsers work. <br>
+Looked up on basics of HTML, CSS. <br>
+I'm trying to cover all the stuff required to start off with flask.<br>
+Nothing much for today.<br>
