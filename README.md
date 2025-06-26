@@ -61,3 +61,10 @@ Got to know basics of how websites, browsers work. <br>
 Looked up on basics of HTML, CSS. <br>
 I'm trying to cover all the stuff required to start off with flask.<br>
 Nothing much for today.<br>
+
+# 25/06/2025 <br>
+Went through basic python. <br>
+Saw using imports, modules <br>
+Did a basic flask app.<br>
+Nothing more today<br>
+
